@@ -1,0 +1,28 @@
+_repo: Reminiscences-of-the-Civil-War-1861-1865_68392
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ledford, Preston Lafayette
+    alias: Ledford, P. L.
+    birthdate: 1837
+    deathdate: 1922
+    gutenberg_agent_id: '54751'
+    url: http://www.gutenberg.org/2009/agents/54751
+description: ''
+gutenberg_issued: '2022-06-24'
+identifiers:
+  gutenberg: '68392'
+  lccn: 09027417
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- !lcsh 'Confederate States of America. Army. North Carolina Infantry Regiment, 14th
+  (1861 Nov.-1865)'
+- GITenberg
+title: Reminiscences of the Civil War, 1861-1865
+url: http://www.gutenberg.org/ebooks/68392
