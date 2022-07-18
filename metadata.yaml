@@ -1,5 +1,8 @@
 _repo: Reminiscences-of-the-Civil-War-1861-1865_68392
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68392-h/images/cover.jpg
 creator:
   author:
     agent_name: Ledford, Preston Lafayette
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '54751'
     url: http://www.gutenberg.org/2009/agents/54751
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68392#Reminiscences-of-the-Civil-War-1861-1865
 gutenberg_issued: '2022-06-24'
 identifiers:
   gutenberg: '68392'
